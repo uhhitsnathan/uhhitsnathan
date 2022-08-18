@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uhhitsnathan
-- 👀 I’m interested in UI/UX design
+- 👋 Hi, I’m @uhhitsnathan.
+- 👀 I’m interested in UI/UX design as well as backend procedures.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on projects and work with others. 
 - 📫 How to reach me ...
