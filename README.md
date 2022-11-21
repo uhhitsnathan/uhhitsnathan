@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathan Spitzer.
-- 👀 I’m interested in UI/UX design as well as backend procedures.
+- 👀 Right now I'm into embedded software, robotics, maching learning, while also wanting to be a fullstack dev.
 - 🌱 I’m currently learning Java,C++ and frontend languages.
-- 💞️ I’m looking to collaborate on projects and work with others and hopefully break into the tech world!
+- 💞️ I want to make cool projects that will amaze others while also being fun. I hope to get an internship soon so I can work with others and get more knowledgeable!
 - 📫 Email: nmspitzer@gmail.com Phone: (661) 904 - 5984
 
 <!---
